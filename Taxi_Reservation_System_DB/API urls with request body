@@ -2,7 +2,7 @@
 Post ---- Book a taxi------------
 http://localhost:8080/bookings
 
-{"customerId": "cust1", "from": "A", "to": "C"}
+{"customerId": "cust1", "froms": "A", "too": "C"}
 
 
 Get ---------get all bookings ---

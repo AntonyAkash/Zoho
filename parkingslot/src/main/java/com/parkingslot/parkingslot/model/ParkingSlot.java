@@ -17,6 +17,16 @@ public class ParkingSlot {
 	
 	private String vehicleType;
 	
+	private String slotType;
+	
+	public String getSlotType() {
+		return slotType;
+	}
+
+	public void setSlotType(String slotType) {
+		this.slotType = slotType;
+	}
+
 	public ParkingSlot() {
 		
 	}
